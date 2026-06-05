@@ -107,8 +107,10 @@ conda activate familyrobot312
 ```
 
 3. 安装依赖
-
+建议先安装cuda版本的torch 本项目对环境有一定要求
 ```bash
+pip install torch==2.5.1+cu121 torchvision==0.20.1+cu121 --index-url https://download.pytorch.org/whl/cu121                  #安装带cuda版本的torch
+python -c "import torch; print(torch.__version__); print(torch.version.cuda); print(torch.cuda.is_available())"              #检验下torch版本
 pip install -r requirements.txt
 ```
 
