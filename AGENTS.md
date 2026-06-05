@@ -105,23 +105,23 @@ Before implementing:
 实现前：
 
 1. Identify the current task.
-2. 明确当前任务。
-3. Explain the implementation plan.
-3. 说明实现计划。
-4. Wait for approval if the user asks for it.
-4. 如果用户要求，先等待确认。
+1. 明确当前任务。
+2. Explain the implementation plan.
+2. 说明实现计划。
+3. Wait for approval if the user asks for it.
+3. 如果用户要求，先等待确认。
 
 After implementing:
 实现后：
 
 1. Run tests.
-2. 运行测试。
-3. Update `TASKS.md`.
-4. 更新 `TASKS.md`。
-5. Summarize the change.
-6. 总结本次修改。
-7. Stop.
-8. 停止，不要自动进入下一个任务。
+1. 运行测试。
+2. Update `TASKS.md`.
+2. 更新 `TASKS.md`。
+3. Summarize the change.
+3. 总结本次修改。
+4. Stop.
+4. 停止，不要自动进入下一个任务。
 
 Do not continue to the next task automatically.
 不要自动继续下一个任务。
