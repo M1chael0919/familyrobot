@@ -91,7 +91,7 @@
 - Python 3.12
 - 建议使用 Conda
 - Windows 本地摄像头或本地视频文件
-- demo测试环境：i5 12400 rtx4060 cuda13.1 
+- demo测试环境：i5 12400 rtx4060 cuda13.1 torch2.5.1+cu121 torchvision0.20.1+cu121
 ## 安装
 
 1. 创建环境
