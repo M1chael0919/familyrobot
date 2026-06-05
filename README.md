@@ -69,7 +69,7 @@
 - `tests/`：测试
 - `docs/`：架构和设计说明
 - `data/enrollment/`：人脸登记数据
-- `models/`：本地模型文件
+- `models/`：本地模型文件 release处下载
 
 ## 模型与数据位置
 
@@ -111,6 +111,9 @@ conda activate familyrobot312
 ```bash
 pip install -r requirements.txt
 ```
+
+4. 模型下载
+模型已经上传到release上，下载解压后放在根目录就行
 
 当前 `requirements.txt` 已按已验证环境锁定版本，方便直接复现；如果你要切换 Python / CUDA / GPU 环境，建议先单独确认 `torch` 和 `onnxruntime` 的安装组合。
 
