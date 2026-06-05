@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "created_at": "2026-06-02T07:43:54.742053+00:00",
+  "records": [
+    {
+      "identity_id": "developer",
+      "display_name": "michael",
+      "role": "开发者",
+      "sample_images": [
+        "images/developer/988a93c6-6cab-4c74-b233-b44bf8a8ca7e.png",
+        "images/developer/cd62649f-a8d5-42b2-823f-462c8748be32.png",
+        "images/developer/601ec6cb-80df-4f40-83f4-ea3de26f6812.png"
+      ],
+      "metadata": {},
+      "enrolled_at": "2026-06-04T07:14:31.828124+00:00"
+    },
+    {
+      "identity_id": "child",
+      "display_name": "儿子",
+      "role": "儿子",
+      "sample_images": [
+        "images/child/27ea5a2c-582f-4d9e-b221-64f836cc52f7.png",
+        "images/child/43ff5479-955c-4169-81e0-fb135463d034.png",
+        "images/child/3071aad1-85e3-47b5-82fb-eeafe8cf1d37.png"
+      ],
+      "metadata": {},
+      "enrolled_at": "2026-06-04T16:14:25.412317+00:00"
+    },
+    {
+      "identity_id": "mother",
+      "display_name": "妈妈",
+      "role": "母亲",
+      "sample_images": [
+        "images/mother/6dbf466f-26bc-481f-a694-4845c477df98.png",
+        "images/mother/70b44d0b-2795-44dc-a508-3eced5b767d2.png",
+        "images/mother/204de329-db98-42e5-bf84-1d1ad947e705.png"
+      ],
+      "metadata": {},
+      "enrolled_at": "2026-06-04T16:15:48.315697+00:00"
+    },
+    {
+      "identity_id": "father",
+      "display_name": "爸爸",
+      "role": "父亲",
+      "sample_images": [
+        "images/father/8d00781a-7dcd-41d5-ac82-4edd26f39e8c.png",
+        "images/father/4161c109-f2ae-4ee5-b147-045ea64aa564.png",
+        "images/father/d851561d-6c8f-4857-be67-654ab834cad8.png"
+      ],
+      "metadata": {},
+      "enrolled_at": "2026-06-04T16:16:11.674636+00:00"
+    },
+    {
+      "identity_id": "grandma",
+      "display_name": "奶奶",
+      "role": "奶奶",
+      "sample_images": [
+        "images/grandma/4735d50e-014c-43f7-93a6-29b056807fb3.png",
+        "images/grandma/b4b8e13a-ab5d-40ec-b1d9-072c18825c31.png",
+        "images/grandma/ef6520a1-b7a6-4303-bdec-58e2904ed529.png"
+      ],
+      "metadata": {},
+      "enrolled_at": "2026-06-04T16:17:03.553718+00:00"
+    },
+    {
+      "identity_id": "grandpa",
+      "display_name": "爷爷",
+      "role": "爷爷",
+      "sample_images": [
+        "images/grandpa/4db37a32-9d74-4cd6-9f03-58066c4ace61.png",
+        "images/grandpa/8878d8fb-0fc0-414f-8b93-7966add30c5f.png",
+        "images/grandpa/937494b4-b879-431b-b893-2618ecfadfc6.png",
+        "images/grandpa/dbc56d8c-8981-4795-aaac-a702edfacf5d.png"
+      ],
+      "metadata": {},
+      "enrolled_at": "2026-06-04T16:25:17.127505+00:00"
+    }
+  ]
+}
